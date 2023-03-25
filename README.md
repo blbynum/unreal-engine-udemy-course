@@ -1,2 +1,3 @@
-"# unreal-engine-udemy-course"  git init git add README.md git commit -m "first commit" git branch -M master git remote add origin git@github.com:blbynum/unreal-engine-udemy-course.git git push -u origin master
-"# unreal-engine-udemy-course" 
+# Unreal Engine 5 C++ Udemy Course
+
+Working through [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse) from GameDev.tv on Udemy
