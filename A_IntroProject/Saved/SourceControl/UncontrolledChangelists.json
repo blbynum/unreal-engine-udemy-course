@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9D/B2UZ14W4VHAJIB9HAAG0UI.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/RJ/X8D1OYZPAYI95I4SVY9ECJ.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KE/HT196OR86N3V6ESNJYM8WE.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/CD/F24OFMR0JLF203EPIJRH40.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XB/L1BZA4FOA9GT5MTWGCNOIR.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/3N/EUKDHMLNGWE6XYWG6O4S7M.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HX/05EE6NWAPVL22OCCAGW0Z7.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/UX/BOKTKR2Q9PJR849XSOE6CP.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IM/94VH06YDDKGZV9M2K350NX.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/JG/91UFS6GLJ02C0H1H5SAWO5.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EU/LVB8S0V9V83NTTN3VOTEOL.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/G0/H3CNNM88R08F8T1RWOEY64.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OA/W7MA5M24WKWL38GV2EFIA8.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EK/HFYERI4EZILP6OS06T7NG6.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WU/SPWS5NLJ81U7GAUGUCP5BC.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LT/BQN5CZSHCCINVXEDGT563A.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/A_IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
