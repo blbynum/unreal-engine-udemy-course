@@ -7,7 +7,14 @@
 			"files": [
 				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
-				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/Maps/Warehouse.umap"
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/Maps/Warehouse.umap",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/BP_Projectile.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/Main.umap",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/BP_Barrel.uasset",
+				"C:/workspace/unreal-engine/unreal-engine-udemy-course/B_WarehouseWreckage/Content/Untitled.umap"
 			]
 		}
 	]
